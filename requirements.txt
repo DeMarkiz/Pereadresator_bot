@@ -1,0 +1,4 @@
+aiogram==3.20.0.post0
+telethon
+loguru
+python-socks[asyncio]
